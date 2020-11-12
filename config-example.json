@@ -1,0 +1,11 @@
+{
+  "google_sheet": {
+    "sheet_id": "",
+    "page": ""
+  },
+  "router": {
+    "url": "",
+    "login": "",
+    "password": ""
+  }
+}

@@ -1,0 +1,5 @@
+.idea
+lib/google_sheet/google-sheet-auth.json
+lib/google_sheet/token.pickle
+__pycache__/
+/config.json
